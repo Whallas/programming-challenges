@@ -35,5 +35,13 @@ However, multiples of 15, which are multiples of 3 and 5, will be counted twice.
 S(n=15) = 15*(999/15)*(999/15 + 1)/2 = 33165
 ```
 
+
+## Usage
+Inside project folder use node.js to run the file.
+```sh
+node js/src/sum-of-all-multiples-of-3-or-5/index.js
+```
+
+
 ### Credits
 Answer in StackOverflow: [Link](https://pt.stackoverflow.com/a/229130/142646)
